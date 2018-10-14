@@ -1,4 +1,4 @@
-# Ultrasonic Distance Measuring Sensor Library
+# Arduino Ultrasonic Distance Measuring Sensor Library
 
 ## Sensors
 Supported sensors:
